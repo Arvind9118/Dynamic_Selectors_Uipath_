@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q9wLVjmJgkeypcj2_F8tTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="28576214-60fe-40dc-bb0e-5cd16a550783" CvElementArea="1658, 425, 221, 55" CvType="InputBox" DesignTimeRectangle="1113, 691, 216, 51" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='41' tag='INPUT' type='input' class='bubble-element Input a1741543347395x3357' aaname='' /&gt;" Guid="0ffd450d-5643-4158-b212-79e4008f0aed" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="28576214-60fe-40dc-bb0e-5cd16a550783" CvElementArea="1658, 425, 221, 55" CvTextArea="1532, 437, 124, 21" CvTextArgument="Annual Saving" CvType="InputBox" DesignTimeRectangle="751, 658, 923, 84" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='bubble-element Group' tag='DIV' aaname='' check:text='Annual Saving' /&gt;" Guid="7a4cc268-3986-483d-a61b-b3ea090c1715" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="676c1ee5a0c6fc47b9e388720a3923d8.png" xmlns="">0sRdvxHnbjUy9E8zd8L4Ttw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

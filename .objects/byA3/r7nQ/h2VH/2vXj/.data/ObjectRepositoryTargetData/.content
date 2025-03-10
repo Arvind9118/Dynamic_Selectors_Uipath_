@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZIhfSGB8KEu6MPZwfJnwRQ" Reference="VkSZMzAdxU2plk0gHwKVuw/2vXjZwLtRUaonxLJ-9bdSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="e36f2f57-f1e2-42e2-9f01-958c31ceead8" CvElementArea="996, 326, 247, 56" CvType="InputBox" DesignTimeRectangle="920, 386, 216, 51" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='60' tag='INPUT' type='input' class='bubble-element Input a1741540251606x3357' aaname='' /&gt;" Guid="563e00bc-7c87-46c0-9b31-3db56326a195" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e36f2f57-f1e2-42e2-9f01-958c31ceead8" CvElementArea="996, 326, 247, 56" CvTextArea="997, 302, 31, 18" CvTextArgument="EIN" CvType="InputBox" DesignTimeRectangle="920, 346, 216, 91" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='bubble-element Group' tag='DIV' aaname='' check:text='EIN' /&gt;" Guid="1cab5335-2926-414d-8fcb-91298ec324c0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e304f8c7dacf0071cd138400a2e23d86.png" xmlns="">0d1V5_rorVUiNUmqgGKRWWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
